@@ -3,7 +3,7 @@ layout: default
 title: Dataset | MLABST'17
 ---
 
-#### **NOTE:** Try to complete the procedure down blow before course starts.
+#### **NOTE:** Try to complete the procedure down below before course starts.
 <br />
 
 ### Dataset registation procedure:

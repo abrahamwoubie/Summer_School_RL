@@ -5,11 +5,11 @@ title: MLABST'17
 
 ## Course Description
 **Venue:** AU206, Campus Joensuu and SN200, Campus Kuopio (the participants can decide on which campus they take the course) <br />
-**Class Time:** See the Schedule section below <br />
+**Class Time:** For details, check the Schedule section <br />
 **Dates:** 14-25 August 2017 <br />
 **Credits:** 5 ECTS <br />
 **Teaching language:** English <br />
-**Assessmet:** pass/fail <br />
+**Assessmet:** Pass/Fail <br />
 **Departments:** Institute of Biomedicine and School of Computing <br />
 **Level:** Doctoral, Master <br />
 **Max. number of attendees:** Not limited <br />
@@ -18,7 +18,7 @@ title: MLABST'17
 **Learning outcomes:** To learn the basics of machine learning and their applications to bioinformatics and speech technology
 
 
-## Covarage:
+## Coverage:
 
 * Basics of machine learning (common lectures for two days + practices)
 * Speech technology (common lectures for two days + practices)

@@ -30,10 +30,10 @@ title: MLABST'17
   <a href="#" style="margin-right:50px">
     <button type="button" class="btn btn-success btn-lg">Lecture Notes</button>
   </a>
-  <a href="{{ site.url }}/schedule" style="margin-right:50px">
+  <a href="{{ site.url }}/{{ site.baseurl }}/schedule" style="margin-right:50px">
     <button type="button" class="btn btn-info btn-lg">Schedule</button>
   </a>
-  <a href="{{ site.url }}/dataset" style="margin-right:50px">
+  <a href="{{ site.url }}/{{ site.baseurl }}/dataset" style="margin-right:50px">
     <button type="button" class="btn btn-danger btn-lg">Dataset</button>
   </a>
   <a href="#" style="margin-right:50px">

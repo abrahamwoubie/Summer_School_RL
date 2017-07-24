@@ -6,6 +6,8 @@ baseurl: "/mlabst"
 
 markdown: kramdown
 
+google_analytics: UA-88738364-5
+
 sass:
     style: compressed
     sass_dir: _sass

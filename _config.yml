@@ -1,0 +1,11 @@
+title: Machine Learning Applied to Bioinformatics and Speech Technology
+subtitle: UEF Summer School, 2017
+url: "https://alpclk.github.io/"
+subtitle_url: "http://www.uef.fi/en/web/summerschool/machine-learning-applied-to-bioinformatics-and-speech-technology"
+baseurl: "/mlabst"
+
+markdown: kramdown
+
+sass:
+    style: compressed
+    sass_dir: _sass

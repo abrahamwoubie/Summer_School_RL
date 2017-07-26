@@ -14,7 +14,6 @@ title: MLABST'17
 **Assessmet:** Pass/Fail <br />
 **Departments:** Institute of Biomedicine and School of Computing <br />
 **Level:** Doctoral, Master <br />
-**Max. number of attendees:** Not limited <br />
 **Modes of study:** Lectures, practices and learning diary <br />
 **Study materials:** material delivered on the course <br />
 **Learning outcomes:** To learn the basics of machine learning and their applications to bioinformatics and speech technology

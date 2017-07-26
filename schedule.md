@@ -5,11 +5,11 @@ title: Schedule | MLABST'17
 
 {% include buttons.html %}
 
+## Schedule of first week 
+
 Lectures will start in AU206 (Joensuu) and SN200 (Kuopio) on Monday 14.8.2017 9:00.
 
 Participants can choose between speech or bioinformatics track (Wednesday, Thursday and Friday).
-
-## Schedule of first week 
 
 #### **Fundamentals of Machine Learning** (14-18 August 2017)
 

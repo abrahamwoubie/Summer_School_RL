@@ -3,6 +3,8 @@ layout: default
 title: Dataset | MLABST'17
 ---
 
+{% include buttons.html %}
+
 #### **NOTE:** Try to complete the procedure down below before course starts.
 <br />
 

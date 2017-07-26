@@ -26,8 +26,6 @@ title: MLABST'17
 * Speech technology (common lectures for two days + practices)
 * Bioinformatics (common lectures for two days + practices)
 
-{% include people.html %}
-
 <div style="text-align:center; padding:70px 0px 70px 0px;">
   <a href="#" style="margin-right:50px">
     <button type="button" class="btn btn-success btn-lg">Lecture Notes</button>
@@ -93,3 +91,4 @@ models. Lectures by:
 The second week of the course consists of independent work. These tasks have been set up in collaboration with Sage Bionetworks and Synapse to challenge the students to develop solutions to three real world problems: i) modeling speech recordings to classify Parkinson's disease patients and to utilize ii) imaging and iii) single cell gene expression data to distinguish changes occurring during Alzheimer's disease. 
 
 <br />
+{% include people.html %}

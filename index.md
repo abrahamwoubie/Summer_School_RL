@@ -3,6 +3,8 @@ layout: default
 title: MLABST'17
 ---
 
+#### **NOTE:** Before course starts, register for data access. For the registration procedure, see the Dataset section (red button).
+
 ## Course Description
 **Venue:** AU206, Campus Joensuu and SN200, Campus Kuopio (the participants can decide on which campus they take the course) <br />
 **Class Time:** For details, check the Schedule section <br />
@@ -91,4 +93,3 @@ models. Lectures by:
 The second week of the course consists of independent work. These tasks have been set up in collaboration with Sage Bionetworks and Synapse to challenge the students to develop solutions to three real world problems: i) modeling speech recordings to classify Parkinson's disease patients and to utilize ii) imaging and iii) single cell gene expression data to distinguish changes occurring during Alzheimer's disease. 
 
 <br />
-#### **NOTE:** Before course starts, register for data access. For the registration procedure, see the Dataset section (red button).

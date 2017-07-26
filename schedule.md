@@ -3,7 +3,7 @@ layout: default
 title: Schedule | MLABST'17
 ---
 
-## Schedule
+## Schedule of first week
 
 #### **Fundamentals of Machine Learning** (14-18 August 2017)
 
@@ -30,7 +30,7 @@ title: Schedule | MLABST'17
 15:00-16:00 | - | - | Audio forensics, Cemal Hanilci | Speech enhancement, Akihiro Kato | Speech practicals 2
     
 
-#### **Bioinformatics Track** (21-25 August 2017)
+#### **Bioinformatics Track** (14-18 August 2017)
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---
@@ -41,4 +41,3 @@ title: Schedule | MLABST'17
 13:00-14:00 | - | - | Example application of ML on molecular data, Juha | ML tools for MRI data, Jussi Tohka| Molecular data
 14:00-15:00 | - | - | Break | Break | Molecular data
 15:00-16:00 | - | - | ML tools for molecular data, Juha | ML tools for multiscale models, Pekka Ruusuvuori | Molecular data
-

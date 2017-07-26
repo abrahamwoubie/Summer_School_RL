@@ -3,20 +3,20 @@ layout: default
 title: MLABST'17
 ---
 
-<div style="text-align:center; padding:70px 0px 70px 0px;">
-  <a href="#" style="margin-right:50px">
+<div style="text-align:center; padding:10px 0px 10px 0px;">
+  <a href="#" style="margin-right:10px">
     <button type="button" class="btn btn-success btn-lg" disabled>Lecture Notes</button>
   </a>
-  <a href="{{ site.url }}/{{ site.baseurl }}/schedule" style="margin-right:50px">
+  <a href="{{ site.url }}/{{ site.baseurl }}/schedule" style="margin-right:10px">
     <button type="button" class="btn btn-info btn-lg">Schedule</button>
   </a>
-  <a href="{{ site.url }}/{{ site.baseurl }}/dataset" style="margin-right:50px">
+  <a href="{{ site.url }}/{{ site.baseurl }}/dataset" style="margin-right:10px">
     <button type="button" class="btn btn-danger btn-lg">Dataset</button>
   </a>
-  <a href="#" style="margin-right:50px">
+  <a href="#" style="margin-right:10px">
     <button type="button" class="btn btn-warning btn-lg" disabled>Assignments</button>
   </a>
-  <a href="#" style="margin-right:50px">
+  <a href="#" style="margin-right:10px">
     <button type="button" class="btn btn-primary btn-lg" disabled>Leaderboard</button>
   </a>
 </div>

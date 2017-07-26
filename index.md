@@ -28,19 +28,19 @@ title: MLABST'17
 
 <div style="text-align:center; padding:70px 0px 70px 0px;">
   <a href="#" style="margin-right:50px">
-    <button type="button" class="btn btn-success btn-lg">Lecture Notes</button>
+    <button type="button" class="btn btn-success btn-lg" disabled>Lecture Notes</button>
   </a>
   <a href="{{ site.url }}/{{ site.baseurl }}/schedule" style="margin-right:50px">
     <button type="button" class="btn btn-info btn-lg">Schedule</button>
   </a>
   <a href="{{ site.url }}/{{ site.baseurl }}/dataset" style="margin-right:50px">
-    <button type="button" class="btn btn-danger btn-lg">Dataset</button>
+    <button type="button" class="btn btn-danger btn-lg" disabled>Dataset</button>
   </a>
   <a href="#" style="margin-right:50px">
-    <button type="button" class="btn btn-warning btn-lg">Assignments</button>
+    <button type="button" class="btn btn-warning btn-lg" disabled>Assignments</button>
   </a>
   <a href="#" style="margin-right:50px">
-    <button type="button" class="btn btn-primary btn-lg">Leaderboard</button>
+    <button type="button" class="btn btn-primary btn-lg" disabled>Leaderboard</button>
   </a>
 </div>
 

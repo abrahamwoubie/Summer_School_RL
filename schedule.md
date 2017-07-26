@@ -41,3 +41,6 @@ title: Schedule | MLABST'17
 13:00-14:00 | - | - | Example application of ML on molecular data, Juha | ML tools for MRI data, Jussi Tohka| Molecular data
 14:00-15:00 | - | - | Break | Break | Molecular data
 15:00-16:00 | - | - | ML tools for molecular data, Juha | ML tools for multiscale models, Pekka Ruusuvuori | Molecular data
+
+## Schedule of second week (21-25 August 2017)
+Second week consists of working on a small project with sessions from 10:00 to 12:00 every day. 

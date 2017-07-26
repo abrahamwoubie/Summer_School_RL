@@ -8,7 +8,7 @@ title: MLABST'17
 #### **NOTE:** Before course starts, register for data access. For the registration procedure, see the Dataset section (red button).
 
 ## Course Description
-**Venue:** AU206, Campus Joensuu and SN200, Campus Kuopio (the participants can decide on which campus they take the course) <br />
+**Venue:** Joensuu and Kuopio campus, the participants can decide on which campus they take the course <br />
 **Class Time:** For details, check the Schedule section <br />
 **Dates:** 14-25 August 2017 <br />
 **Credits:** 5 ECTS <br />
@@ -21,7 +21,7 @@ title: MLABST'17
 **Learning outcomes:** To learn the basics of machine learning and their applications to bioinformatics and speech technology
 
 
-## Coverage:
+## Coverage
 
 * Basics of machine learning (common lectures for two days + practices)
 * Speech technology (common lectures for two days + practices)

@@ -3,7 +3,9 @@ layout: default
 title: Schedule | MLABST'17
 ---
 
-## Schedule of first week
+Lectures will start in AU206 (Joensuu) and SN200 (Kuopio) on Monday 14.8.2017 9:00.
+
+## Schedule of first week 
 
 #### **Fundamentals of Machine Learning** (14-18 August 2017)
 

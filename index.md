@@ -11,9 +11,9 @@ title: MLABST'17
 **Venue:** Joensuu and Kuopio campus, the participants can decide on which campus they take the course <br />
 **Class Time:** For details, check the Schedule section <br />
 **Dates:** 14-25 August 2017 <br />
-**Credits:** 5 ECTS <br />
-**Teaching language:** English <br />
+**Credits:** 2 or 5 ECTS <br />
 **Assessmet:** Pass/Fail <br />
+**Teaching language:** English <br />
 **Departments:** Institute of Biomedicine and School of Computing <br />
 **Level:** Doctoral, Master <br />
 **Modes of study:** Lectures, practices and learning diary <br />
@@ -26,6 +26,22 @@ title: MLABST'17
 * Basics of machine learning (common lectures for two days + practices)
 * Speech technology (common lectures for two days + practices)
 * Bioinformatics (common lectures for two days + practices)
+
+## Grading
+
+Course is designed for 5 ECTS and as such consists of one week of lectures. one day of practicals
+and one week of working on a longer project. However participants may also complete course
+with 2 ECTS by not attending the longer project.
+
+Grading is pass/fail for 2 or 5 ECTS. To get 2 ECTS students must:
+
+- Submit a filled learning diary (consists of questions) related to lectures of the first week
+- Attend Friday 18.8 practical sessions and participate in completing the assigned tasks.
+
+To get 5 ECTS students must also:
+
+- Attend and complete a project on the second week (21.8 - 25.8), including submitting a final report and created code.
+
 
 ## Course Content
 #### **Fundamentals of Machine Learning**

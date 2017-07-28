@@ -27,13 +27,13 @@ Participants can choose between speech or bioinformatics track (Wednesday, Thurs
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---
-9:00-10:00  | - | - | - | Spoofing and ASV, Tomi Kinnunen | Speech practicals 1
+9:00-10:00  | - | - | Introduction to speech data by Ville Hautamäki | Spoofing and ASV, Tomi Kinnunen | Speech practicals 1
 10:00-11:00 | - | - | - | Spoofing, Tomi Kinnunen | Speech practicals 1
 11:00-12:00 | - | - | Lunch | Lunch | Speech practicals 1
 12:00-13:00 | - | - | Factor analysis for speaker recognition, Kong Aik Lee | SIDEKIT - toolkit for speaker recognition, Kong Aik Lee | Lunch
 13:00-14:00 | - | - | Factor analysis for speaker recognition, Kong Aik Lee | SIDEKIT - toolkit for speaker recognition, Kong Aik Lee | Speech practicals 2
-14:00-15:00 | - | - | Audio forensics, Cemal Hanilci | Speech enhancement, Akihiro Kato | Speech practicals 2
-15:00-16:00 | - | - | Audio forensics, Cemal Hanilci | Speech enhancement, Akihiro Kato | Speech practicals 2
+14:00-15:00 | - | - | Break | Speech enhancement, Akihiro Kato | Speech practicals 2
+15:00-16:00 | - | - | Break | Speech enhancement, Akihiro Kato | Speech practicals 2
     
 
 #### **Bioinformatics Track** (14-18 August 2017)

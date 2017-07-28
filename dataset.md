@@ -6,9 +6,8 @@ title: Dataset | MLABST'17
 {% include buttons.html %}
 
 #### **NOTE:** Try to complete the procedure down below before course starts.
-<br />
 
-### Dataset registation procedure:
+### Dataset registration procedure:
 
 The course practical part during the 2nd week involves working with data sets hosted in Synapse. Follow the instructions below to install the required software for data access and register as a user:  
 

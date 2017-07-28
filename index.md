@@ -27,6 +27,11 @@ title: MLABST'17
 * Speech technology (common lectures for two days + practices)
 * Bioinformatics (common lectures for two days + practices)
 
+## Prerequisites
+
+Completing tasks requires programming and implementing algorithms. 
+Examples mostly use Python language.
+
 ## Grading
 
 Course is designed for 5 ECTS and as such consists of one week of lectures. one day of practicals

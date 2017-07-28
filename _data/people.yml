@@ -33,11 +33,11 @@ instructors:
 teaching_assistants:
   - name: "Anssi Kanervisto"
     profile_photo: "img/anssi.jpg"
-    email: "anssi {at} cs {dot} uef {dot} fi"
+    email: "anssk {at} cs {dot} uef {dot} fi"
     onclick: "'anssi' + '@' + 'cs.' + 'uef.' + 'fi'"
   - name: "Trung Ngo Trong"
     profile_photo: "img/trung.jpg"
-    email: "trung {at} cs {dot} uef {dot} fi"
+    email: "trungt {at} cs {dot} uef {dot} fi"
     onclick: "'trung' + '@' + 'cs.' + 'uef.' + 'fi'"
   - name: "Alp Celik"
     profile_photo: "img/alp.jpg"

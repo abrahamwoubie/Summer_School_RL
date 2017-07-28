@@ -6,25 +6,24 @@
           
           {% for p in site.data.people.instructors %}
                  <div class="people">
-                      {% if p.site %} <a href="{{ p.site }}" target="_blank"> {% endif %}
+                      {% if p.email %} <a href="mailto:{{ p.email }}" title='e-mail' onclick="this.href='mailto:' + {{ p.onclick }}"> {% endif %}
                       <div class="peoplephoto"><img src="{{ p.profile_photo }}"></div>
                       <div>{{ p.name }}</div>
-                      {% if p.site %} </a> {% endif %}
+                      {% if p.email %} </a> {% endif %}
                       <div> {{ p.note }} </div>
                 </div>
           {% endfor %}
       </div>
-
 
       <div class="col-md-16">
           <h2>Teaching Assistants</h2>
           
           {% for p in site.data.people.teaching_assistants %}
                 <div class="people">
-                      {% if p.site %} <a href="{{ p.site }}" target="_blank"> {% endif %}
+                      {% if p.email %} <a href="mailto:{{ p.email }}" title='e-mail' onclick="this.href='mailto:' + {{ p.onclick }}"> {% endif %}
                       <div class="peoplephoto"><img src="{{ p.profile_photo }}"></div>
                       <div>{{ p.name }}</div>
-                      {% if p.site %} </a> {% endif %}
+                      {% if p.email %} </a> {% endif %}
                       <div> {{ p.note }} </div>
                 </div>
           {% endfor %}

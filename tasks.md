@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Schedule | MLABST'17
+title: Tasks | MLABST'17
 ---
 
 {% include buttons.html %}
 
-TODO add about how practicals are done? (CSC? premade scripts? etc)
+This page lists tasks participants should complete during the 
+course. Unless otherwise mentioned, **tasks, lectures and examples
+use Python language**.
 
 ## Task for Friday particals (finish before Friday 18.8)
 

@@ -29,7 +29,7 @@ All lectures of Monday and Tuesday take place in AU206 (Joensuu) and SN200 (Kuop
 
 Speech track takes place in: 
 
-* Thursday and Wednesday: AU206 (Joensuu) and SN200 (Kuopio).
+* Wednesday and Thursday: AU206 (Joensuu) and SN200 (Kuopio).
 * Friday: AU205 (Joensuu) and CA103 (Kuopio).
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
@@ -47,7 +47,7 @@ Speech track takes place in:
 
 Bioinformatics track takes place in:
 
-* Thursday and Wednesday: AU205 (Joensuu) and SN201 (Kuopio).
+* Wednesday and Thursday: AU205 (Joensuu) and SN201 (Kuopio).
 * Friday: AU205 (Joensuu) and CA103 (Kuopio).
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)

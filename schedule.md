@@ -5,7 +5,7 @@ title: Schedule | MLABST'17
 
 {% include buttons.html %}
 
-## Schedule of first week (14-18 August 2017)
+## Schedule of the first week (14-18 August 2017)
 
 Lectures will start in AU206 (Joensuu) and SN200 (Kuopio) on Monday 14.8.2017 9:00.
 
@@ -13,6 +13,7 @@ Participants can choose between speech or bioinformatics track (Wednesday, Thurs
 
 #### **Fundamentals of Machine Learning** 
 
+All lectures of Monday and Tuesday take place in AU206 (Joensuu) and SN200 (Kuopio).
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---
 9:00-10:00 |  Information by UEF to international students | Deep neural networks 1, Ville Hautamäki       | - | - | -
@@ -24,6 +25,11 @@ Participants can choose between speech or bioinformatics track (Wednesday, Thurs
 15:00-16:00 | PhD student project presentations            | CSC practicals, Markus Koskela                | - | - | -
 
 #### **Speech Track** 
+
+Speech track takes place in: 
+
+* Thursday: AU206 (Joensuu) and SN200 (Kuopio).
+* Friday: TBA (Joensuu) and CA103 (Kuopio).
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---
@@ -38,6 +44,11 @@ Participants can choose between speech or bioinformatics track (Wednesday, Thurs
 
 #### **Bioinformatics Track**
 
+Bioinformatics track takes place in:
+
+* Thursday: AU205 (Joensuu) and SN201 (Kuopio).
+* Friday: TBA (Joensuu) and CA103 (Kuopio).
+
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---
 9:00-10:00  | - | - | Introduction to biomedical data - Merja Heinäniemi | Features from imaging data, Jussi Tohka | Imaging data
@@ -48,7 +59,7 @@ Participants can choose between speech or bioinformatics track (Wednesday, Thurs
 14:00-15:00 | - | - | Break | Break | Molecular data
 15:00-16:00 | - | - | ML tools for molecular data, Juha | ML tools for multiscale models, Pekka Ruusuvuori | Molecular data
 
-## Schedule of second week (21-25 August 2017)
+## Schedule of the second week (21-25 August 2017)
 Second week consists of working on a small project with sessions from 10:00 to 12:00 every day. 
 
 Second week sessions will be held in:

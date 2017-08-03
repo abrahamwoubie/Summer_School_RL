@@ -14,6 +14,7 @@ Participants can choose between speech or bioinformatics track (Wednesday, Thurs
 #### **Fundamentals of Machine Learning** 
 
 All lectures of Monday and Tuesday take place in AU206 (Joensuu) and SN200 (Kuopio).
+
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---
 9:00-10:00 |  Information by UEF to international students | Deep neural networks 1, Ville Hautamäki       | - | - | -

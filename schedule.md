@@ -50,3 +50,8 @@ Participants can choose between speech or bioinformatics track (Wednesday, Thurs
 
 ## Schedule of second week (21-25 August 2017)
 Second week consists of working on a small project with sessions from 10:00 to 12:00 every day. 
+
+Second week sessions will be held in:
+
+* Joensuu: Monday and Wednesday-Friday in AU204. Tuesday in AG108.
+* Kuopio: Monday-Friday in SN203

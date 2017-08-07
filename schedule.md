@@ -48,7 +48,7 @@ Speech track takes place in:
 Bioinformatics track takes place in:
 
 * Wednesday and Thursday: AU205 (Joensuu) and SN201 (Kuopio).
-* Friday: AU205 and AU208 (Joensuu), CA103 (Kuopio).
+* Friday: AU208 (Joensuu), CA103 (Kuopio).
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---

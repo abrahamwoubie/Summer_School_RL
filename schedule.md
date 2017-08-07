@@ -35,7 +35,7 @@ Speech track takes place in:
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---
 9:00-10:00  | - | - | Introduction to speech data, Ville Hautamäki | Spoofing and ASV, Tomi Kinnunen | Speech practicals 1
-10:00-11:00 | - | - | - | Spoofing, Tomi Kinnunen | Speech practicals 1
+10:00-11:00 | - | - | Speech synthesis, Akihiro Kato | Spoofing, Tomi Kinnunen | Speech practicals 1
 11:00-12:00 | - | - | Lunch | Lunch | Speech practicals 1
 12:00-13:00 | - | - | Factor analysis for speaker recognition, Kong Aik Lee | SIDEKIT - toolkit for speaker recognition, Kong Aik Lee | Lunch
 13:00-14:00 | - | - | Factor analysis for speaker recognition, Kong Aik Lee | SIDEKIT - toolkit for speaker recognition, Kong Aik Lee | Speech practicals 2

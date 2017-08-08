@@ -32,7 +32,7 @@ All lectures of Monday and Tuesday take place in AU206 (Joensuu) and SN200 (Kuop
 Speech track takes place in: 
 
 * Wednesday and Thursday: AU206 (Joensuu) and SN200 (Kuopio).
-* Friday: TB247 (Joensuu) and CA104 (Kuopio). TB247 is located in Science Park (Tiedepuisto) in second floor. From the main entrance, take the spiral-stairs on left and TB247 will be on hallway on right side.
+* Friday: TB247 (Joensuu) and CA104 (Kuopio). TB247 is located in Science Park (Tiedepuisto) in second floor. From the main entrance, take the spiral-stairs on the left and TB247 will be in the hallway on right past the elevators.
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---

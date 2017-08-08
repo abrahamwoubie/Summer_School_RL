@@ -50,7 +50,7 @@ Speech track takes place in:
 Bioinformatics track takes place in:
 
 * Wednesday and Thursday: AU205 (Joensuu) and SN201 (Kuopio).
-* Friday: WIP (Joensuu) and CA103 (Kuopio).
+* Friday: TB180 (Joensuu) and CA103 (Kuopio). TB180 is located in Science Park (Tiedepuisto), in the hallway past elevators after entering from the main entrance.
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---

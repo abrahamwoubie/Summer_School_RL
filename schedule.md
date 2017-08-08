@@ -18,12 +18,11 @@ All lectures of Monday and Tuesday take place in AU206 (Joensuu) and SN200 (Kuop
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---
 9:00-10:00 |  Information by UEF to international students | Deep neural networks 1, Ville Hautamäki       | - | - | -
-10:00-11:00 | Introduction (Speech data and Bio data)      | Deep neural netowrks 2, Ville Hautamäki       | - | - | -
+10:00-11:00 | Introduction (Speech data and Bio data)      | Deep neural networks 2, Ville Hautamäki       | - | - | -
 11:00-12:00 | Lunch                                        | Lunch                                         | - | - | -
 12:00-13:00 | Statistics, Lauri Mehtätalo                  | Sequence modeling 1, Ville Hautamäki          | - | - | -
 13:00-14:00 | Machine learning basics, Jussi Tohka         | Evaluation in machine learning, Tomi Kinnunen | - | - | -
-14:00-15:00 | PhD students’ presentations  \* <br> 1. Linear Prediction, Frequency Domain Linear Prediction, and Time-Varying Linear Prediction for Speaker Verification in Reverberant Conditions, Ville Vestman <br> 2. Predicting Personal Nutrition Recommendations, Jari Turkia 				   | CSC, Markus Koskela                           | - | - | -
-15:00-16:00 | PhD students' presentations \* 					| CSC practicals, Markus Koskela                | - | - | -
+14:00-16:00 | PhD students’ presentations  \* <br> 1. Linear Prediction, Frequency Domain Linear Prediction, and Time-Varying Linear Prediction for Speaker Verification in Reverberant Conditions, Ville Vestman <br> 2. Predicting Personal Nutrition Recommendations, Jari Turkia 				   | CSC, Markus Koskela                           | - | - | -
 
 \* Each presentation will last 15 minutes.
 

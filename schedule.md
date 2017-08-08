@@ -22,7 +22,7 @@ All lectures of Monday and Tuesday take place in AU206 (Joensuu) and SN200 (Kuop
 11:00-12:00 | Lunch                                        | Lunch                                         | - | - | -
 12:00-13:00 | Statistics, Lauri Mehtätalo                  | Sequence modeling 1, Ville Hautamäki          | - | - | -
 13:00-14:00 | Machine learning basics, Jussi Tohka         | Evaluation in machine learning, Tomi Kinnunen | - | - | -
-14:00-15:00 | PhD student project presentations            | CSC, Markus Koskela                           | - | - | -
+14:00-15:00 | Linear Prediction, Frequency Domain Linear Prediction, and Time-Varying Linear Prediction for Speaker Verification in Reverberant Conditions, Ville Vestman | CSC, Markus Koskela                           | - | - | -
 15:00-16:00 | PhD student project presentations            | CSC practicals, Markus Koskela                | - | - | -
 
 #### **Speech Track** 

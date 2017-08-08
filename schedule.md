@@ -42,7 +42,7 @@ Speech track takes place in:
 12:00-13:00 | - | - | Factor analysis for speaker recognition, Kong Aik Lee | SIDEKIT - toolkit for speaker recognition, Kong Aik Lee | Lunch
 13:00-14:00 | - | - | Factor analysis for speaker recognition, Kong Aik Lee | SIDEKIT - toolkit for speaker recognition, Kong Aik Lee | Speech practicals 2
 14:00-15:00 | - | - | Break | Speech enhancement, Akihiro Kato | Speech practicals 2
-15:00-16:00 | - | - | Break | Speech enhancement, Akihiro Kato | Speech practicals 2
+15:00-16:00 | - | - | ML tools for speech data, Trung Ngo Trong | Speech enhancement, Akihiro Kato | Speech practicals 2
     
 
 #### **Bioinformatics Track**

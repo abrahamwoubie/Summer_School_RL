@@ -89,8 +89,10 @@ models. Lectures by:
 
 - Jussi Tohka, University of Eastern Finland, Finland
 - Merja Heinäniemi, University of Eastern Finland, Finland
-- Pekka Ruusuvuori, University of Tampere
+- Pekka Ruusuvuori, University of Tampere, Finland
 - Thanneer Perumal, Sage Bionetworks, USA
+- Petri Pölönen, University of Eastern Finland, Finland
+- Robert Ciszek, University of Eastern Finland, Finland
 
 ## Practical Assignments
 The second week of the course consists of independent work. These tasks have been set up in collaboration with Sage Bionetworks and Synapse to challenge the students to develop solutions to three real world problems: i) modeling speech recordings to classify Parkinson's disease patients and to utilize ii) imaging and iii) single cell gene expression data to distinguish changes occurring during Alzheimer's disease. 

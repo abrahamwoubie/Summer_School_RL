@@ -75,7 +75,7 @@ language recognition. Lectures by:
 - Tomi Kinnunen, University of Eastern Finland, Finland
 - Kong Aik Lee,  Institute for Infocomm Research, Singapore
 - Hansjörg Mixdorffü, Beuth-Hochschule für Technik Berlin, Germany
-- Akihiro Kato, University of East Anglia, England
+- Akihiro Kato, University of Eastern Finland, Finland
 
 #### **Bioinformatics**
 The bioinformatics track will include an overview of the data types encountered in the field of biomedicine, 

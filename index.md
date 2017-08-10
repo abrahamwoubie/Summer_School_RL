@@ -71,10 +71,11 @@ graduation) already familiar with the basics of speech processing, and intereste
 general overview of both basic principles and selected emerging trends in speaker and
 language recognition. Lectures by:
 
-- Cemal Hanilci, Bursa Technical University, Turkey
 - Ville Hautamäki, University of Eastern Finland, Finland
 - Tomi Kinnunen, University of Eastern Finland, Finland
 - Kong Aik Lee,  Institute for Infocomm Research, Singapore
+- Hansjörg Mixdorffü, Beuth-Hochschule für Technik Berlin, Germany
+- Akihiro Kato, University of East Anglia, England
 
 #### **Bioinformatics**
 The bioinformatics track will include an overview of the data types encountered in the field of biomedicine, 

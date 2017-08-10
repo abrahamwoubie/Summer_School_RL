@@ -58,7 +58,7 @@ Bioinformatics track takes place in:
 11:00-12:00 | - | - | Lunch | Multiscale application, Pekka Ruusuvuori| Imaging data
 12:00-13:00 | - | - | Unsupervised dimensionality reduction, Juha Mehtonen | Lunch | Lunch
 13:00-14:00 | - | - | Multiview dimensionality reduction, Robert Ciszek + Break | ML tools for MRI data, Jussi Tohka| Molecular data
-14:00-15:00 | - | - | Deep neural network applications, overview, Meja Heinäniemi | Break | Molecular data
+14:00-15:00 | - | - | Deep neural network applications, overview, Merja Heinäniemi | Break | Molecular data
 15:00-16:00 | - | - | Deep neural network configurations for DNA motif analysis, Juha Mehtonen | ML tools for multiscale models, Pekka Ruusuvuori | Molecular data
 
 ## Schedule of the second week (21-25 August 2017)

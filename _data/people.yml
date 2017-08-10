@@ -29,6 +29,11 @@ instructors:
   - name: "Akihiro Kato"
     profile_photo: "img/akihiro.jpg"
     site: "https://www.uea.ac.uk/computing/speech-language-and-audio-processing/members/postgraduate-students"
+  - name: "Petri Pölönen"
+    profile_photo: "petri.jpg"
+  - name: "Robert Ciszek"
+    profile_photo: "placeholder.jpg"
+
 
 teaching_assistants:
   - name: "Anssi Kanervisto"

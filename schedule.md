@@ -9,7 +9,7 @@ title: Schedule | MLABST'17
 
 Lectures will start in AU206 (Joensuu) and SN200 (Kuopio) on Monday 14.8.2017 9:00.
 
-Participants can choose between speech or bioinformatics track (Wednesday, Thursday). However practicals of the tracks are only kept in their respective locations (Speech practicals in Joensuu, Bioinformatic practicals in Kuopio).
+All participants will participate on same lectures on first two days (Monday, Tuesday). Later on participants can choose between speech or bioinformatics track (Wednesday, Thursday). However practicals of the tracks are only kept in their respective locations (Speech practicals in Joensuu, Bioinformatic practicals in Kuopio).
 
 #### **Fundamentals of Machine Learning** 
 

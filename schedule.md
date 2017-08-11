@@ -9,7 +9,7 @@ title: Schedule | MLABST'17
 
 Lectures will start in AU206 (Joensuu) and SN200 (Kuopio) on Monday 14.8.2017 9:00.
 
-Participants can choose between speech or bioinformatics track (Wednesday, Thursday and Friday).
+Participants can choose between speech or bioinformatics track (Wednesday, Thursday). However practicals of the tracks are only kept in their respective locations (Speech practicals in Joensuu, Bioinformatic practicals in Kuopio).
 
 #### **Fundamentals of Machine Learning** 
 
@@ -31,7 +31,7 @@ All lectures of Monday and Tuesday take place in AU206 (Joensuu) and SN200 (Kuop
 Speech track takes place in: 
 
 * Wednesday and Thursday: AU206 (Joensuu) and SN200 (Kuopio).
-* Friday: TB247 (Joensuu) and CA104 (Kuopio). TB247 is located in Science Park (Tiedepuisto) in second floor. From the main entrance, take the spiral-stairs on the left and TB247 will be in the hallway on right past the elevators.
+* Friday: TB247 (**Joensuu only!**). TB247 is located in Science Park (Tiedepuisto) in second floor. From the main entrance, take the spiral-stairs on the left and TB247 will be in the hallway on right past the elevators.
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---
@@ -49,7 +49,7 @@ Speech track takes place in:
 Bioinformatics track takes place in:
 
 * Wednesday and Thursday: AU205 (Joensuu) and SN201 (Kuopio).
-* Friday: TB180 (Joensuu) and CA103 (Kuopio). TB180 is located in Science Park (Tiedepuisto), in the hallway past elevators after entering from the main entrance.
+* Friday: CA103 (**Kuopio only!**)
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---

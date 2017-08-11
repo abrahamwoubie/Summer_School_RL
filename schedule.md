@@ -7,7 +7,7 @@ title: Schedule | MLABST'17
 
 ## Schedule of the first week (14-18 August 2017)
 
-Lectures will start in AU206 (Joensuu) and SN200 (Kuopio) on Monday 14.8.2017 9:00.
+Lectures will start in AU206 (Joensuu) and SN200 (Kuopio) on Monday 14.8.2017 10:00.
 
 All participants will participate on same lectures on first two days (Monday, Tuesday). Later on participants can choose between speech or bioinformatics track (Wednesday, Thursday). However practicals of the tracks are only kept in their respective locations (Speech practicals in Joensuu, Bioinformatic practicals in Kuopio).
 
@@ -17,7 +17,7 @@ All lectures of Monday and Tuesday take place in AU206 (Joensuu) and SN200 (Kuop
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---
-9:00-10:00 |  Information by UEF to international students | Deep neural networks 1, Ville Hautamäki       | - | - | -
+9:00-10:00 |  *Information by UEF to international students* | Deep neural networks 1, Ville Hautamäki       | - | - | -
 10:00-11:00 | Introduction (Speech data and Bio data)      | Deep neural networks 2, Ville Hautamäki       | - | - | -
 11:00-12:00 | Lunch                                        | Lunch                                         | - | - | -
 12:00-13:00 | Statistics, Lauri Mehtätalo                  | Sequence modeling 1, Ville Hautamäki          | - | - | -

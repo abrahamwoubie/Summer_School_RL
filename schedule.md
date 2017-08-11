@@ -17,7 +17,7 @@ All lectures of Monday and Tuesday take place in AU206 (Joensuu) and SN200 (Kuop
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---
-9:00-10:00 |  *Information by UEF to international students* | Deep neural networks 1, Ville Hautamäki       | - | - | -
+9:00-10:00 |  *Information by UEF to international students (Location TBA)* | Deep neural networks 1, Ville Hautamäki       | - | - | -
 10:00-11:00 | Introduction (Speech data and Bio data)      | Deep neural networks 2, Ville Hautamäki       | - | - | -
 11:00-12:00 | Lunch                                        | Lunch                                         | - | - | -
 12:00-13:00 | Statistics, Lauri Mehtätalo                  | Sequence modeling 1, Ville Hautamäki          | - | - | -

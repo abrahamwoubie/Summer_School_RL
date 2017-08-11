@@ -22,7 +22,7 @@ All lectures of Monday and Tuesday take place in AU206 (Joensuu) and SN200 (Kuop
 11:00-12:00 | Lunch                                        | Lunch                                         | - | - | -
 12:00-13:00 | Statistics, Lauri Mehtätalo                  | Sequence modeling 1, Ville Hautamäki          | - | - | -
 13:00-14:00 | Machine learning basics, Jussi Tohka         | Evaluation in machine learning, Tomi Kinnunen | - | - | -
-14:00-16:00 | PhD students’ presentations  \* <br> 1. Linear Prediction, Frequency Domain Linear Prediction, and Time-Varying Linear Prediction for Speaker Verification in Reverberant Conditions, Ville Vestman <br> 2. Predicting Personal Nutrition Recommendations, Jari Turkia <br> 3. Teaching computer to play Doom from visual input, Anssi Kanervisto| CSC, Markus Koskela <br> 4. Effects of human-induced voice modification on speaker recognition,  Rosa Gonzalez Hautamäki | - | - | -
+14:00-16:00 | PhD students’ presentations  \* <br> 1. Linear Prediction, Frequency Domain Linear Prediction, and Time-Varying Linear Prediction for Speaker Verification in Reverberant Conditions, Ville Vestman <br> 2. Predicting Personal Nutrition Recommendations, Jari Turkia <br> 3. Teaching computer to play Doom from visual input, Anssi Kanervisto <br> 4. Effects of human-induced voice modification on speaker recognition,  Rosa Gonzalez Hautamäki| CSC, Markus Koskela | - | - | -
 
 \* Each presentation will last 15 minutes.
 

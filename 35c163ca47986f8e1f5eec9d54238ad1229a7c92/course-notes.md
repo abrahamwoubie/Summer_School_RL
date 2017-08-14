@@ -19,3 +19,4 @@ title: Course Notes | MLABST'17
 
 | --- |
 | [Predicting Personal Nutrition Recommendations]({{ site.url }}{{ site.baseurl }}/content/turkia_slides.pdf) | 
+| [Teaching computer to play Doom from visual input]({{ site.url }}{{ site.baseurl }}/content/kanervisto_slides.pdf) | 

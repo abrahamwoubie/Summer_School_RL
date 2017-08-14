@@ -69,4 +69,4 @@ At the end of the project participants will submit a final report as well the cr
 Second week tutoring sessions will be held in:
 
 * Joensuu: Monday and Wednesday-Friday in AU204. Tuesday in AG108.
-* Kuopio: Monday-Friday in SN203
+* Kuopio: Monday-Friday in SN203. There will also be a lecture by Mikko Hiltunen on 21.8 at 10-10.45 in SN203.

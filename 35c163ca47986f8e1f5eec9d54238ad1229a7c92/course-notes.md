@@ -7,7 +7,6 @@ title: Course Notes | MLABST'17
 
 ### Learning diary: [Download here]({{ site.url }}{{ site.baseurl }}/content/learning_diary.pdf)
 
-
 ### Course Notes
 
 | --- |
@@ -15,3 +14,8 @@ title: Course Notes | MLABST'17
 | [Machine learning basics]({{ site.url }}{{ site.baseurl }}/content/tohka_machinelearning_basics.pdf) | 
 | [Introduction to biomedical data]({{ site.url }}{{ site.baseurl }}/content/merja_introBiomed_mon.pdf) | 
 | [Overview of mixed-effects models]({{ site.url }}{{ site.baseurl }}/content/lauri_slides.pdf) | 
+
+### PhD student presentations
+
+| --- |
+| [Predicting Personal Nutrition Recommendations]({{ site.url }}{{ site.baseurl }}/content/turkia_slides.pdf) | 

@@ -5,7 +5,7 @@ title: Course Notes | MLABST'17
 
 {% include buttons.html %}
 
-### [Learning diary]({{ site.url }}{{ site.baseurl }}/content/learning_diary.pdf)
+### Learning diary: [Download here]({{ site.url }}{{ site.baseurl }}/content/learning_diary.pdf)
 
 
 ### Course Notes

@@ -19,6 +19,7 @@ title: Course Notes | MLABST'17
 | [Evaluation of classifier accuracy]({{ site.url }}{{ site.baseurl }}/content/evaluation_of_classifiers.pdf) | 
 | [Introduction to deep learning applications in biomedical data (Monday)]({{ site.url }}{{ site.baseurl }}/content/merja_introDeep_mon.pdf) | 
 | [Introduction to deep learning applications in biomedical data (Thursday)]({{ site.url }}{{ site.baseurl }}/content/merja_introDeep_thu.pdf) | 
+| [Speech Synthesis]({{ site.url }}{{ site.baseurl }}/content/speech_synthesis.pdf) | 
 
 ### PhD student presentations
 

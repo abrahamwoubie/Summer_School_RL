@@ -53,13 +53,23 @@ Bioinformatics track takes place in:
 
 | | Monday | Tuesday | Wednesday | Thursday | Friday (practicals)
 --- | ---  | ---     | ---       | ---      | ---
-9:00-10:00  | - | - | Introduction to biomedical data - Merja Heinäniemi | Features from imaging data, Jussi Tohka | Imaging data
-10:00-11:00 | - | - | Cell type deconvolution problem, Petri Pölönen | Example application, Jussi Tohka | Imaging data
-11:00-12:00 | - | - | Lunch | Multiscale application, Pekka Ruusuvuori| Imaging data
+9:00-10:00  | - | - | Introduction to biomedical data - Merja Heinäniemi | *(See below)* | Imaging data
+10:00-11:00 | - | - | Cell type deconvolution problem, Petri Pölönen | *(See below)* | Imaging data
+11:00-12:00 | - | - | Lunch | *(See below)* | Imaging data
 12:00-13:00 | - | - | Unsupervised dimensionality reduction, Juha Mehtonen | Lunch | Lunch
 13:00-14:00 | - | - | Multiview dimensionality reduction, Robert Ciszek + Break | ML tools for MRI data, Jussi Tohka| Molecular data
 14:00-15:00 | - | - | Deep neural network applications, overview, Merja Heinäniemi | Break | Molecular data
 15:00-16:00 | - | - | Deep neural network configurations for DNA motif analysis, Juha Mehtonen | ML tools for multiscale models, Pekka Ruusuvuori | Molecular data
+
+Schedule for the Thursday morning lectures by Jussi Tohka: 
+
+* 9.15 - 9.45  Brain imaging basics
+* 9.45 - 10.15 Brain Image analysis (features from brain imaging) 
+* Break
+* 10.45 -11.15 Machine learning for brain imaging biomarkers
+* 11.15 - 11.45 Small sample considerations in machine learning
+* 11.45 - 12.00 Machine learning for brain image segmentation
+
 
 ## Schedule of the second week (21-25 August 2017)
 Second week consists of working projects independently. There will be tutoring sessions from 10:00 to 12:00 every day. 

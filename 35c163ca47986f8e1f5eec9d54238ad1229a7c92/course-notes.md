@@ -15,6 +15,8 @@ title: Course Notes | MLABST'17
 | [Introduction to biomedical data]({{ site.url }}{{ site.baseurl }}/content/merja_introBiomed_mon.pdf) | 
 | [Overview of mixed-effects models]({{ site.url }}{{ site.baseurl }}/content/lauri_slides.pdf) | 
 | [Deep Neural Networks]({{ site.url }}{{ site.baseurl }}/content/deep_learning_slides.pdf) | 
+| [Sequence Modeling]({{ site.url }}{{ site.baseurl }}/content/sequence_modeling.pdf) | 
+| [Introduction to deep learning applications in biomedical data]({{ site.url }}{{ site.baseurl }}/content/merja_introDeep_thu.pdf) | 
 
 ### PhD student presentations
 

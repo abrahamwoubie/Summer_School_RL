@@ -43,7 +43,7 @@ Speech track takes place in:
 14:00-15:00 | - | - | Prosody Prediction, Hansjörg Mixdorff | Speech enhancement, Akihiro Kato | Speech practicals 2
 15:00-16:00 | - | - | ML tools for speech data, Trung Ngo Trong | Speech enhancement, Akihiro Kato | Speech practicals 2
    
-**Thursday 19:00 - 20:00: Presentation by Thanneer Perumal on project task datasets. Joensuu TB180, Kuopio 
+**Thursday 19:00 - 20:00: Presentation by Thanneer Perumal on project task datasets. Joensuu TB180, Kuopio SN200**
 
 #### **Bioinformatics Track**
 
@@ -71,6 +71,7 @@ Schedule for the Thursday morning lectures by Jussi Tohka:
 * 11.15 - 11.45 Small sample considerations in machine learning
 * 11.45 - 12.00 Machine learning for brain image segmentation
 
+**Thursday 19:00 - 20:00: Presentation by Thanneer Perumal on project task datasets. Joensuu TB180, Kuopio SN200**
 
 ## Schedule of the second week (21-25 August 2017)
 Second week consists of working projects independently. There will be tutoring sessions from 10:00 to 12:00 every day. 

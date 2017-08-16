@@ -22,9 +22,15 @@ Returnables: Final report and source code
 Second week will consist of working on a pre-defined project, writing
 final report with final results as well as returning source code produced.
 
+There will be tutoring sessions on second week of the summer school where
+TA's will assist with the projects. There will also be an IRC chat (see "Chat" tab, available during second week)
+where you can ask questions outside tutoring sessions. 
+
+*Note from TA: We are not top-experts in these areas and the tasks are quite fresh/new/open problems. As such, do not expect pre-made solutions or 100% correct suggestions from us :)*
+
 **Note: Accessing required datasets requires certified Synapse account. See "Dataset" page**
 
-Project task can be chosen from the following: 
+Projects can be one of the following (one per person): 
 
 - Single Cell RNA-sequencing (scRNAseq)
     - The aim is to predicttheproportion of different cell types from bulk RNASeq using clever approach utilizing data from single cell RNASeq -> cell type deconvolution problem

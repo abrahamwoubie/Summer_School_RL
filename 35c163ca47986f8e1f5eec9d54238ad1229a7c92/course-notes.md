@@ -27,6 +27,7 @@ title: Course Notes | MLABST'17
 | --- |
 | [Speech Synthesis]({{ site.url }}{{ site.baseurl }}/content/speech_synthesis.pdf) | 
 | [Introduction to speech data]({{ site.url }}{{ site.baseurl }}/content/Introduction_to_speech_data.pdf) | 
+| [ML Tools]({{ site.url }}{{ site.baseurl }}/content/mltools_slides.pdf) | 
 
 ### PhD student presentations
 

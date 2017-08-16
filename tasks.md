@@ -13,20 +13,20 @@ For the first week of the course, participants are required to submit filled
 learning diary that consists of different questions related to given lectures. 
 
 You can find the learning diary on "Course Notes" section. **Note that it might be
-updated during first week,** but you can start working on questions already included.
+updated during the first week,** but you can start working on questions that are already included.
 
 ## Project (done during second week, 21.8 - 25.8, and onward)
 Deadline: TBA (after second week of summer school) <br>
 Returnables: Final report and source code
 
-Second week will consist of working on a pre-defined project, writing
-final report with final results as well as returning source code produced.
+Second week will consist of working on a pre-defined project/task, writing a
+report with theory, methodology, experiment setup and final results as well as returning source code produced. 
 
-There will be tutoring sessions on second week of the summer school where
-TA's will assist with the projects. There will also be an IRC chat (see "Chat" tab, available during second week)
-where you can ask questions outside tutoring sessions. 
+There will be tutoring sessions on the second week of the summer school where
+TA's will be answering and assisting you with your projects. There will also be 
+an IRC chat (see "Chat" tab, available during second week) where you can ask questions outside tutoring sessions. 
 
-*Note from TA: We are not top-experts in these areas and the tasks are quite fresh/new/open problems. As such, do not expect pre-made solutions or 100% correct suggestions from us :)*
+*Note from TAs: We are not top-experts in these areas and the tasks are quite fresh/new/open problems. As such, do not expect pre-made solutions or 100% correct suggestions from us :)*
 
 **Note: Accessing required datasets requires certified Synapse account. See "Dataset" page**
 
@@ -43,4 +43,4 @@ Projects can be one of the following (one per person):
     - Speakers used iphone app to self collect the data. Large number of speakers and samples are available (> 50k samples). 
     - We will pre-select samples for training, validation and test sets. We will give the baseline performance on the test set and hope is that students will come up with novel ideas which exceed the baseline performance. 
     - Finally, the interesting thing is to see what features in the speech are predictive of the PD. This can lead to new biology and possibly practical diagnostic tools.
-    - **Note: This data requires *validated* Synapse account, which requires signed letters from your institute (Check Synapse about validating the account)**
+    - **Note: This data requires *validated* Synapse account, which requires signed letters from your institute ( [Check Steps 3-5  here](https://www.synapse.org/#!Synapse:syn4993293/wiki/247860) )**

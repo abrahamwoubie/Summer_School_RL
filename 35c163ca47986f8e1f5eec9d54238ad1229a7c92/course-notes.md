@@ -23,6 +23,8 @@ title: Course Notes | MLABST'17
 | [Introduction to biomedical data (Wednesday)]({{ site.url }}{{ site.baseurl }}/content/merja_introBiomed_thu.pdf) | 
 | [Introduction to deep learning applications in biomedical data]({{ site.url }}{{ site.baseurl }}/content/merja_introDeep_thu.pdf) | 
 | [Deconvolutionmethods to dissect immunologic profile of the tumor]({{ site.url }}{{ site.baseurl }}/content/petri_slides.pdf) | 
+| [Unsupervised dimensionality reduction]({{ site.url }}{{ site.baseurl }}/content/mehtonen_slides.pdf) | 
+| [Deep neural network configurations for DNA motif analysis]({{ site.url }}{{ site.baseurl }}/content/deep_dna_slides.pdf) | 
 
 | --- |
 | [Speech Synthesis]({{ site.url }}{{ site.baseurl }}/content/speech_synthesis.pdf) | 

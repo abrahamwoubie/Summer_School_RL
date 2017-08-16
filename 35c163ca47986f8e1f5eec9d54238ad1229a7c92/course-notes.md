@@ -18,7 +18,7 @@ title: Course Notes | MLABST'17
 | [Sequence Modeling]({{ site.url }}{{ site.baseurl }}/content/sequence_modeling.pdf) | 
 | [Evaluation of classifier accuracy]({{ site.url }}{{ site.baseurl }}/content/evaluation_of_classifiers.pdf) | 
 | [Introduction to biomedical data (Thursday)]({{ site.url }}{{ site.baseurl }}/content/merja_introBiomed_thu.pdf) | 
-| [Introduction to deep learning applications in biomedical data (Thursday)]({{ site.url }}{{ site.baseurl }}/content/merja_introDeep_thu.pdf) | 
+| [Introduction to deep learning applications in biomedical data]({{ site.url }}{{ site.baseurl }}/content/merja_introDeep_thu.pdf) | 
 | [Speech Synthesis]({{ site.url }}{{ site.baseurl }}/content/speech_synthesis.pdf) | 
 | [Introduction to speech data]({{ site.url }}{{ site.baseurl }}/content/Introduction_to_speech_data.pdf) | 
 

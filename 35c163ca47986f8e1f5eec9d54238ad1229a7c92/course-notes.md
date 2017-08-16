@@ -20,6 +20,7 @@ title: Course Notes | MLABST'17
 | [Introduction to deep learning applications in biomedical data (Monday)]({{ site.url }}{{ site.baseurl }}/content/merja_introDeep_mon.pdf) | 
 | [Introduction to deep learning applications in biomedical data (Thursday)]({{ site.url }}{{ site.baseurl }}/content/merja_introDeep_thu.pdf) | 
 | [Speech Synthesis]({{ site.url }}{{ site.baseurl }}/content/speech_synthesis.pdf) | 
+| [Introduction to speech data]({{ site.url }}{{ site.baseurl }}/content/introduction_to_speech_data.pdf) | 
 
 ### PhD student presentations
 

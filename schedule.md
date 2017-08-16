@@ -42,7 +42,8 @@ Speech track takes place in:
 13:00-14:00 | - | - | Factor analysis for speaker recognition, Kong Aik Lee | SIDEKIT - toolkit for speaker recognition, Kong Aik Lee | Speech practicals 2
 14:00-15:00 | - | - | Prosody Prediction, Hansjörg Mixdorff | Speech enhancement, Akihiro Kato | Speech practicals 2
 15:00-16:00 | - | - | ML tools for speech data, Trung Ngo Trong | Speech enhancement, Akihiro Kato | Speech practicals 2
-    
+   
+**Thursday 19:00 - 20:00: Presentation by Thanneer Perumal on project task datasets. Joensuu TB180, Kuopio 
 
 #### **Bioinformatics Track**
 

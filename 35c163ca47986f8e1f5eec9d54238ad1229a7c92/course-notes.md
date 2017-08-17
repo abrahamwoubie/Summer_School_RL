@@ -37,7 +37,7 @@ title: Course Notes | MLABST'17
 | [Factor analysis for speaker recognition]({{ site.url }}{{ site.baseurl }}/content/factor_analysis.pdf) | 
 | [SIDEKIT - Python toolkit for speaker recognition]({{ site.url }}{{ site.baseurl }}/content/sidekit.pdf) | 
 
-[**Presentation by Thanneer Perumal on Synapse and deconvolution task**](http://cs.uef.fi/~anssk/thanneer_presentation.mp4)
+[**Presentation by Thanneer Perumal on Synapse and deconvolution task**](http://cs.uef.fi/~anssk/thanneer_presentation.mp4) ( [Slides]({{ site.url }}{{ site.baseurl }}/content/thanneer.pdf) )
 
 ### PhD student presentations
 

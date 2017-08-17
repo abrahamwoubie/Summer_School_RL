@@ -25,6 +25,7 @@ title: Course Notes | MLABST'17
 | [Deconvolutionmethods to dissect immunologic profile of the tumor]({{ site.url }}{{ site.baseurl }}/content/petri_slides.pdf) | 
 | [Unsupervised dimensionality reduction]({{ site.url }}{{ site.baseurl }}/content/mehtonen_slides.pdf) | 
 | [Deep neural network configurations for DNA motif analysis]({{ site.url }}{{ site.baseurl }}/content/deep_dna_slides.pdf) | 
+| [Brain imaging, machine learning and imaging biomarkers]({{ site.url }}{{ site.baseurl }}/content/tohka_uefss_brain_imaging_2017.pdf) | 
 
 | --- |
 | [Speech Synthesis]({{ site.url }}{{ site.baseurl }}/content/speech_synthesis.pdf) | 

@@ -34,6 +34,8 @@ title: Course Notes | MLABST'17
 | [Prosody prediction]({{ site.url }}{{ site.baseurl }}/content/mixdorff_slides.pdf) | 
 | [Spoofing and anti-spoofing: a shared view of speaker verification, speech synthesis and voice conversion](http://www.spoofingchallenge.org/apsipa/apsipa2015.pdf) | 
 | [Speech enhancement]({{ site.url }}{{ site.baseurl }}/content/speech_enhancement.pdf) | 
+| [Factor analysis for speaker recognition]({{ site.url }}{{ site.baseurl }}/content/factor_analysis.pdf) | 
+| [SIDEKIT - Python toolkit for speaker recognition]({{ site.url }}{{ site.baseurl }}/content/sidekit.pdf) | 
 
 ### PhD student presentations
 

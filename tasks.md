@@ -6,7 +6,7 @@ title: Tasks | MLABST'17
 {% include buttons.html %}
 
 ## Learning diary
-Deadline: TBA (after second week of summer school) <br>
+Deadline: TBA (~2 weeks after summer school) <br>
 Returnables: Filled learning diary (questions answered)
 
 For the first week of the course, participants are required to submit filled
@@ -16,7 +16,7 @@ You can find the learning diary on "Course Notes" section. **Note that it might 
 updated during the first week,** but you can start working on questions that are already included.
 
 ## Project (done during second week, 21.8 - 25.8, and onward)
-Deadline: TBA (after second week of summer school) <br>
+Deadline: TBA (~2 weeks after summer school) <br>
 Returnables: Final report and source code
 
 Second week will consist of working on a pre-defined project/task, writing a

@@ -28,11 +28,12 @@ title: Course Notes | MLABST'17
 | [Brain imaging, machine learning and imaging biomarkers]({{ site.url }}{{ site.baseurl }}/content/tohka_uefss_brain_imaging_2017.pdf) | 
 
 | --- |
-| [Speech Synthesis]({{ site.url }}{{ site.baseurl }}/content/speech_synthesis.pdf) | 
+| [Speech synthesis]({{ site.url }}{{ site.baseurl }}/content/speech_synthesis.pdf) | 
 | [Introduction to speech data]({{ site.url }}{{ site.baseurl }}/content/Introduction_to_speech_data.pdf) | 
 | [ML Tools]({{ site.url }}{{ site.baseurl }}/content/mltools_slides.pdf) | 
-| [Prosody Prediction]({{ site.url }}{{ site.baseurl }}/content/mixdorff_slides.pdf) | 
+| [Prosody prediction]({{ site.url }}{{ site.baseurl }}/content/mixdorff_slides.pdf) | 
 | [Spoofing and anti-spoofing: a shared view of speaker verification, speech synthesis and voice conversion](http://www.spoofingchallenge.org/apsipa/apsipa2015.pdf) | 
+| [Speech enhancement]({{ site.url }}{{ site.baseurl }}/content/speech_enhancement.pdf) | 
 
 ### PhD student presentations
 

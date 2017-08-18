@@ -44,3 +44,12 @@ title: Course Notes | MLABST'17
 | --- |
 | [Predicting Personal Nutrition Recommendations]({{ site.url }}{{ site.baseurl }}/content/turkia_slides.pdf) | 
 | [Teaching computer to play Doom from visual input]({{ site.url }}{{ site.baseurl }}/content/kanervisto_slides.pdf) | 
+
+### Other material
+
+Example code and datasets used during the Friday practical tasks: https://github.com/trungnt13/uef-summerschool2017 <br>
+Modified notebooks from Joensuu speech practicals: 
+[Fundamentals](({{ site.url }}{{ site.baseurl }}/content/fundamentals.html)),
+[Front-end](({{ site.url }}{{ site.baseurl }}/content/front-end.html))
+ and [Back-end](({{ site.url }}{{ site.baseurl }}/content/back-end.html))
+    

@@ -47,7 +47,7 @@ title: Course Notes | MLABST'17
 
 ### Other material
 
-Example code and datasets used during the Friday practical tasks: https://github.com/trungnt13/uef-summerschool2017 <br>
+Example code and datasets used during the Friday practical tasks: [https://github.com/trungnt13/uef-summerschool2017](https://github.com/trungnt13/uef-summerschool2017)<br>
 Modified notebooks from Joensuu speech practicals: 
 [Fundamentals](({{ site.url }}{{ site.baseurl }}/content/fundamentals.html)),
 [Front-end](({{ site.url }}{{ site.baseurl }}/content/front-end.html))

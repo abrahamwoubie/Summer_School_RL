@@ -37,6 +37,7 @@ an IRC chat (see "Chat" tab, available during second week) where you can ask que
 Projects can be one of the following (one per person): 
 
 - Single Cell RNA-sequencing (scRNAseq)
+    - [Check more information here]({{ site.url }}/{{ site.baseurl }}/rnaseq)
     - The aim is to predicttheproportion of different cell types from bulk RNASeq using clever approach utilizing data from single cell RNASeq -> cell type deconvolution problem
     - Challenge: Can you come up with a clever way to utilize scRNAseq to deconvolve the signal in the Alzheimer brain tissue samples?
 - Detecting Parkinson's Disease (PD) using speech data

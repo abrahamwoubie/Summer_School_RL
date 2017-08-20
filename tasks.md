@@ -13,8 +13,8 @@ Filled learning diary will be returned to the Moodle (link will be added later).
 For the first week of the course, participants are required to submit filled
 learning diary that consists of different questions related to given lectures. 
 
-You can find the learning diary on "Course Notes" section. **Note that it might be
-updated during the first week,** but you can start working on questions that are already included.
+You can find the learning diary on "Course Notes" section. Current version 
+on the site is the final version.
 
 ## Project (done during second week, 21.8 - 25.8, and onward)
 Deadline: TBA (~2 weeks after summer school) <br>

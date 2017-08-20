@@ -5,7 +5,7 @@ title: Tasks | MLABST'17
 
 {% include buttons.html %}
 
-### All submissions are returned to Moodle: [https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032)
+### Return submission on Moodle: [https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032)
 
 ## Learning diary
 Deadline: 8.9.2017 <br>

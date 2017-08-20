@@ -14,21 +14,24 @@ The aim is to predict the proportion of different cell types from bulk RNASeq us
 
 #### Deconvolution problem
 
-Biologically motivated review https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3874291/ <br>
-http://web.cbio.uct.ac.za/~renaud/CRAN/web/CellMix/_PAGE-Algorithms.html
+Biologically motivated review: <br>
+(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3874291/)[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3874291/]<br>
+(http://web.cbio.uct.ac.za/~renaud/CRAN/web/CellMix/_PAGE-Algorithms.html)[http://web.cbio.uct.ac.za/~renaud/CRAN/web/CellMix/_PAGE-Algorithms.html]
 
-Technically motivated review https://arxiv.org/pdf/1510.04583.pdf
+Technically motivated review: <br>
+(https://arxiv.org/pdf/1510.04583.pdf)[https://arxiv.org/pdf/1510.04583.pdf]
 
-CIBERSORT method covered in Petri’s lecture http://www.nature.com/nmeth/journal/v12/n5/abs/nmeth.3337.html
+CIBERSORT method covered in Petri’s lecture: <br>
+(http://www.nature.com/nmeth/journal/v12/n5/abs/nmeth.3337.html)[http://www.nature.com/nmeth/journal/v12/n5/abs/nmeth.3337.html]
 
-This R package supporting RNA-seq data could be helpful
-https://bioconductor.org/packages/devel/bioc/vignettes/DeconRNASeq/inst/doc/DeconRNASeq.pdf
+This R package supporting RNA-seq data could be helpful: <br>
+(https://bioconductor.org/packages/devel/bioc/vignettes/DeconRNASeq/inst/doc/DeconRNASeq.pdf)[https://bioconductor.org/packages/devel/bioc/vignettes/DeconRNASeq/inst/doc/DeconRNASeq.pdf]
 
 
 #### Single cell RNA-seq
 
-Data: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67835 <br>
-Code: https://github.com/seandavi/awesome-single-cell 
+Data: (https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67835)[https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67835] <br>
+Code: (https://github.com/seandavi/awesome-single-cell)[https://github.com/seandavi/awesome-single-cell]
 
 
 ### Proposed solution
@@ -42,7 +45,7 @@ You may use an existing implementation of cell type deconvolution and focus on i
 You may focus on proposing a new solution to the problem using neural networks.
 One solution could be to start with an autoencoder model that learns cell type classification given scRNAseq data.
 
-The simplest such model could be one that gets as input the expression values and as output attempts to reconstruct these values and associate the levels with predicted cell type. This thesis work addressed this problem and could give you insight into the problem: http://www.diva-portal.org/smash/get/diva2:942241/FULLTEXT01.pdf 
+The simplest such model could be one that gets as input the expression values and as output attempts to reconstruct these values and associate the levels with predicted cell type. This thesis work addressed this problem and could give you insight into the problem: (http://www.diva-portal.org/smash/get/diva2:942241/FULLTEXT01.pdf)[http://www.diva-portal.org/smash/get/diva2:942241/FULLTEXT01.pdf]
 
 You would have similar data from human brain as was used there from mouse
 

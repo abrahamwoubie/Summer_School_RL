@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RNASeq |†MLABST'17
+title: RNASeq |¬†MLABST'17
 ---
 
 #MOLECULAR DATA
@@ -18,7 +18,7 @@ http://web.cbio.uct.ac.za/~renaud/CRAN/web/CellMix/_PAGE-Algorithms.html
 
 Technically motivated review https://arxiv.org/pdf/1510.04583.pdf
 
-CIBERSORT method covered in Petriís lecture http://www.nature.com/nmeth/journal/v12/n5/abs/nmeth.3337.html
+CIBERSORT method covered in Petri‚Äôs lecture http://www.nature.com/nmeth/journal/v12/n5/abs/nmeth.3337.html
 
 This R package supporting RNA-seq data could be helpful
 https://bioconductor.org/packages/devel/bioc/vignettes/DeconRNASeq/inst/doc/DeconRNASeq.pdf
@@ -33,7 +33,7 @@ Code: https://github.com/seandavi/awesome-single-cell
 ###Proposed solution
 
 ####Option 1
-You may use an existing implementation of cell type deconvolution and focus on innovating how to use scRNAseq in a clever way e.g. to refine the cell type identification (new marker genes). See above for suggested tools. One plausible approach could be to investigate unsupervised methods to get initial grouping of scRNAseq data into similar cells (possibly representing ì cell types / statesî ). To quantify how well these groupings reflect the original sample grouping (in high dimensional space) consider the metrics presented by Juha.
+You may use an existing implementation of cell type deconvolution and focus on innovating how to use scRNAseq in a clever way e.g. to refine the cell type identification (new marker genes). See above for suggested tools. One plausible approach could be to investigate unsupervised methods to get initial grouping of scRNAseq data into similar cells (possibly representing ‚Äú cell types / states‚Äù ). To quantify how well these groupings reflect the original sample grouping (in high dimensional space) consider the metrics presented by Juha.
 
 ####Option 2
 You may focus on proposing a new solution to the problem using neural networks.

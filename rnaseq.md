@@ -3,15 +3,16 @@ layout: default
 title: RNASeq | MLABST'17
 ---
 
-#MOLECULAR DATA
-##Cell type deconvolution task
+# MOLECULAR DATA
+
+## Cell type deconvolution task
 
 The aim is to predict the proportion of different cell types from bulk RNASeq using clever approach utilizing data from single cell RNASeq
 
 
-###Background reading
+### Background reading
 
-####Deconvolution problem
+#### Deconvolution problem
 
 Biologically motivated review https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3874291/ <br>
 http://web.cbio.uct.ac.za/~renaud/CRAN/web/CellMix/_PAGE-Algorithms.html
@@ -24,18 +25,20 @@ This R package supporting RNA-seq data could be helpful
 https://bioconductor.org/packages/devel/bioc/vignettes/DeconRNASeq/inst/doc/DeconRNASeq.pdf
 
 
-####Single cell RNA-seq
+#### Single cell RNA-seq
 
 Data: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67835 <br>
 Code: https://github.com/seandavi/awesome-single-cell 
 
 
-###Proposed solution
+### Proposed solution
 
-####Option 1
+#### Option 1
+
 You may use an existing implementation of cell type deconvolution and focus on innovating how to use scRNAseq in a clever way e.g. to refine the cell type identification (new marker genes). See above for suggested tools. One plausible approach could be to investigate unsupervised methods to get initial grouping of scRNAseq data into similar cells (possibly representing “ cell types / states” ). To quantify how well these groupings reflect the original sample grouping (in high dimensional space) consider the metrics presented by Juha.
 
-####Option 2
+#### Option 2
+
 You may focus on proposing a new solution to the problem using neural networks.
 One solution could be to start with an autoencoder model that learns cell type classification given scRNAseq data.
 

@@ -7,7 +7,8 @@ title: Tasks | MLABST'17
 
 ## Learning diary
 Deadline: TBA (~2 weeks after summer school) <br>
-Returnables: Filled learning diary (questions answered)
+Returnables: Filled learning diary (questions answered) <br>
+Filled learning diary will be returned to the Moodle (link will be added later).
 
 For the first week of the course, participants are required to submit filled
 learning diary that consists of different questions related to given lectures. 
@@ -17,7 +18,8 @@ updated during the first week,** but you can start working on questions that are
 
 ## Project (done during second week, 21.8 - 25.8, and onward)
 Deadline: TBA (~2 weeks after summer school) <br>
-Returnables: Final report and source code
+Returnables: Final report and source code <br>
+Report and source code will be returned to the Moodle (link will be added later).
 
 Second week will consist of working on a pre-defined project/task, writing a
 report with theory, methodology, experiment setup and final results as well as returning source code produced. 

@@ -37,9 +37,14 @@ an IRC chat (see "Chat" tab, available during second week) where you can ask que
 Projects can be one of the following (one per person): 
 
 - Single Cell RNA-sequencing (scRNAseq)
-    - [Check more information here]({{ site.url }}/{{ site.baseurl }}/rnaseq)
+    - [Check more information here]({{ site.url }}/{{ site.baseurl }}/content/biotasks.pdf)
     - The aim is to predicttheproportion of different cell types from bulk RNASeq using clever approach utilizing data from single cell RNASeq -> cell type deconvolution problem
     - Challenge: Can you come up with a clever way to utilize scRNAseq to deconvolve the signal in the Alzheimer brain tissue samples?
+- Allen Brain Atlas in situ hybridization
+    - [Check more information here]({{ site.url }}/{{ site.baseurl }}/content/biotasks.pdf)
+    - The aim is to perform automated image annotation to find out which cell types/tissue substructures express the genes that change their level in Alzheimer’s disease patients (RNA-seq profiles)
+    - Challenge: Can you come up with a clever way to utilize Allen Brain Atlas data to link the gene expression changes in the Alzheimer brain to specific brain regions?
+ 
 - Detecting Parkinson's Disease (PD) using speech data
     - [Synapse page](https://www.synapse.org/#!Synapse:syn4993293/wiki/)
     - Task is to use speech data ‘/aaaa/’ sound to predict whether speaker has PD or not. 

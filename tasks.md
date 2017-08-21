@@ -52,3 +52,26 @@ Projects can be one of the following (one per person):
     - We will pre-select samples for training, validation and test sets. We will give the baseline performance on the test set and hope is that students will come up with novel ideas which exceed the baseline performance. 
     - Finally, the interesting thing is to see what features in the speech are predictive of the PD. This can lead to new biology and possibly practical diagnostic tools.
     - **Note: This data requires *validated* Synapse account, which requires signed letters from your institute ( [Check Steps 3-5  here](https://www.synapse.org/#!Synapse:syn4993293/wiki/247860) )**
+
+### Getting started with Python
+
+- Install [Python](https://www.python.org/) (3.6 preferred) or [Anaconda](https://www.continuum.io/) (or [Miniconda](https://conda.io/miniconda.html) )
+    - Note that some Linux distributions already have Python pre-installed, e.g. Ubuntu 16.04 has Python 3.5
+- For developing code, install IDE of your choice. E.g: Geany, PyCharm (heavy-ish), Notepad++
+- You will likely need some extra libraries that do not come with Python:
+    - On Linux/OSX these can be often installed with simple `pip3 install [library name]`
+    - On Windows, often pre-built packages are needed. You can find up-to-date pre-compiled libraries here: [http://www.lfd.uci.edu/~gohlke/pythonlibs/](http://www.lfd.uci.edu/~gohlke/pythonlibs/)
+        - To install a library: Download the .whl file, navigate to [Python install dir]/Scripts with command line and command `pip install [.whl file]`
+- You can use pb.csc.fi jupyter notebooks for prototyping. **Note that files will be deleted after set time (e.g. 8h)on pb.csc.fi notebooks!**
+- Develope and test your implementation on local machine with smaller dataset, if full dataset/training is too heavy.
+- If more computing resources are required, try using CSC Taito/Taito-GPU
+
+- List of some libraries you will probably need / could use:
+    - NumPy (basic math functions)
+    - Scipy (misc math functions)
+    - scikit-learn (machine learning)
+    - TensorFlow (deep learning)
+    - Keras (deep learning)
+    - matplotlib (plotting)
+    - librosa (audio processing)
+    - sidekit (audio processing, used for evaluation in PD task)

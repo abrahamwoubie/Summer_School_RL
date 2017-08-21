@@ -64,7 +64,7 @@ Projects can be one of the following (one per person):
         - To install a library: Download the .whl file, navigate to [Python install dir]/Scripts with command line and command `pip install [.whl file]`
 - You can use pb.csc.fi jupyter notebooks for prototyping. **Note that files will be deleted after set time (e.g. 8h)on pb.csc.fi notebooks!**
 - Develope and test your implementation on local machine with smaller dataset, if full dataset/training is too heavy.
-- If more computing resources are required, try using CSC Taito/Taito-GPU
+- If more computing resources are required, try using CSC Taito/Taito-GPU. [See this Github repo for some tutorials on running python script on Taito](https://github.com/CSCfi/machine-learning-scripts/tree/master/courses/uefml2017)
 
 - List of some libraries you will probably need / could use:
     - NumPy (basic math functions)

@@ -76,7 +76,6 @@ Schedule for the Thursday morning lectures by Jussi Tohka:
 ## Schedule of the second week (21-25 August 2017)
 Second week consists of working projects independently. There will be tutoring sessions from 10:00 to 12:00 every day. 
 At the end of the project participants will submit a final report as well the created source code.
-**Note that second week is worth of 3 ECTS, i.e. roughly full-day work for the week!**.
 
 Second week tutoring sessions will be held in:
 

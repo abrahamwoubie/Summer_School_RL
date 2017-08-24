@@ -57,6 +57,7 @@ Projects can be one of the following (one per person):
 
 Final report should be a single PDF file (text document). There are no limitation/requirements for the length, but we expect detailed explanation.
 A good report should include following:
+
     - Introduction to the dataset/task, possibly describing why the task is difficult (if it indeed is)
     - Explanation of the methodology/approach used to solve the task. E.g. Algorithms/Methods/Models used, the pipeline
     - Implementation details / experiment setup. E.g. Hyperparameters used, number of samples from different classes, etc.

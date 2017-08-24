@@ -52,4 +52,5 @@ Modified notebooks from Joensuu speech practicals:
 [Fundamentals](https://alpclk.github.io/mlabst/content/fundamentals.html), 
 [Front-end](https://alpclk.github.io/mlabst/content/front-end.html)
  and [Back-end](https://alpclk.github.io/mlabst/content/back-end.html)
-    
+
+Slides from second week project task info: [PDF slides]({{ site.url }}{{ site.baseurl }}/content/project_slides.pdf) 

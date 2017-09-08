@@ -8,7 +8,7 @@ title: Tasks | MLABST'17
 ### Return submissions on Moodle: [https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032)
 
 ## Learning diary
-Deadline: 9.9.2017 (till end of the day)<br>
+Deadline: 10.9.2017, 11:55pm<br>
 Returnables: Filled learning diary (questions answered) <br>
 Filled learning diary will be returned to the Moodle (link will be added later).
 
@@ -19,7 +19,7 @@ You can find the learning diary on "Course Notes" section. Current version
 on the site is the final version.
 
 ## Project (done during second week, 21.8 - 25.8, and onward)
-Deadline: 9.9.2017 (till end of the day)<br>
+Deadline: 10.9.2017, 11:55pm<br>
 Returnables: Final report and source code <br>
 Report and source code will be returned to the Moodle (link will be added later).
 

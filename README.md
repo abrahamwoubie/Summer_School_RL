@@ -1,2 +1,2 @@
 # mlabst
-UEF Summer School 2017: Machine Learning Applied to Bioinformatics and Speech Technology
+UEF Summer School 2018: Machine Learning Applied to Speech and Autonomous Agents

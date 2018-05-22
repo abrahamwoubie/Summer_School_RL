@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Tasks | MLABST'17
+title: Tasks | UEF Summer School 2018
 ---
 
 {% include buttons.html %}

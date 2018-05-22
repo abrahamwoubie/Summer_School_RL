@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Schedule | MLABST'17
+title: Schedule | UEF Summer School 2018
 ---
 
 {% include buttons.html %}

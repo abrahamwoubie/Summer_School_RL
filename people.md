@@ -1,6 +1,6 @@
 ---
 layout: default
-title: MLABST'17
+title: People | UEF Summer School 2018
 ---
 
 {% include buttons.html %}

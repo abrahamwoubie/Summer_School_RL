@@ -69,13 +69,6 @@ The course involves social programme organized by the UEF (details
 TBA). The activities will mostly be included in your course fee, but
 some of them may have a small participation fee.
 
-## More Information
-
-Course content related matters:
-[tkinnu@cs.uef.fi](mailto:tkinnu@cs.uef.fi) and [villeh@cs.uef.fi](mailto:villeh@cs.uef.fi)
-
-General course matters:
-[summer.school@uef.fi](mailto:summer.school@uef.fi)
 
 
 

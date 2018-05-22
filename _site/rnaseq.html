@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <title>RNASeq | MLABST'17</title>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="uef, machine learning, speech, autonomous agents">
+
+
+<!-- Google fonts -->
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,300' rel='stylesheet' type='text/css'>
+
+<!-- Bootstrap -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+
+<link rel="alternate" type="application/rss+xml" title="Machine Learning Applied to Speech Technology and Autonomous Agents RSS" href="/feed.xml" />
+<link rel="stylesheet" href="http://localhost:4000/summerschool/css/main.css">
+
+
+
+
+
+
+    <header class="site-header"  role="banner">
+
+    <div class="navbar">
+        <a id="navbar-title" href="http://localhost:4000/summerschool/">Machine Learning Applied to Speech Technology and Autonomous Agents</a><br />
+        <a id="navbar-subtitle" href="http://www.uef.fi/en/web/summerschool/machine-learning-applied-to-speech-technology-and-autonomous-agents" target="_blank">UEF Summer School, 2018</a>
+    </div>
+
+</headerer>
+
+
+
+<body>
+
+    <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+            <hr>
+            <div class="container content">
+                <h1 id="molecular-data">MOLECULAR DATA</h1>
+
+<h2 id="cell-type-deconvolution-task">Cell type deconvolution task</h2>
+
+<p>The aim is to predict the proportion of different cell types from bulk RNASeq using clever approach utilizing data from single cell RNASeq</p>
+
+<h3 id="background-reading">Background reading</h3>
+
+<h4 id="deconvolution-problem">Deconvolution problem</h4>
+
+<p>Biologically motivated review: <br />
+<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3874291/">https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3874291/</a><br />
+<a href="http://web.cbio.uct.ac.za/~renaud/CRAN/web/CellMix/_PAGE-Algorithms.html">http://web.cbio.uct.ac.za/~renaud/CRAN/web/CellMix/_PAGE-Algorithms.html</a></p>
+
+<p>Technically motivated review: <br />
+<a href="https://arxiv.org/pdf/1510.04583.pdf">https://arxiv.org/pdf/1510.04583.pdf</a></p>
+
+<p>CIBERSORT method covered in Petri’s lecture: <br />
+<a href="http://www.nature.com/nmeth/journal/v12/n5/abs/nmeth.3337.html">http://www.nature.com/nmeth/journal/v12/n5/abs/nmeth.3337.html</a></p>
+
+<p>This R package supporting RNA-seq data could be helpful: <br />
+<a href="https://bioconductor.org/packages/devel/bioc/vignettes/DeconRNASeq/inst/doc/DeconRNASeq.pdf]">https://bioconductor.org/packages/devel/bioc/vignettes/DeconRNASeq/inst/doc/DeconRNASeq.pdf</a></p>
+
+<h4 id="single-cell-rna-seq">Single cell RNA-seq</h4>
+
+<p>Data: <a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67835">https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE67835</a> <br />
+Code: <a href="https://github.com/seandavi/awesome-single-cell">https://github.com/seandavi/awesome-single-cell</a></p>
+
+<h3 id="proposed-solution">Proposed solution</h3>
+
+<h4 id="option-1">Option 1</h4>
+
+<p>You may use an existing implementation of cell type deconvolution and focus on innovating how to use scRNAseq in a clever way e.g. to refine the cell type identification [new marker genes]. See above for suggested tools. One plausible approach could be to investigate unsupervised methods to get initial grouping of scRNAseq data into similar cells [possibly representing “ cell types / states” ]. To quantify how well these groupings reflect the original sample grouping [in high dimensional space] consider the metrics presented by Juha.</p>
+
+<h4 id="option-2">Option 2</h4>
+
+<p>You may focus on proposing a new solution to the problem using neural networks.
+One solution could be to start with an autoencoder model that learns cell type classification given scRNAseq data.</p>
+
+<p>The simplest such model could be one that gets as input the expression values and as output attempts to reconstruct these values and associate the levels with predicted cell type. This thesis work addressed this problem and could give you insight into the problem: <a href="http://www.diva-portal.org/smash/get/diva2:942241/FULLTEXT01.pdf">http://www.diva-portal.org/smash/get/diva2:942241/FULLTEXT01.pdf</a></p>
+
+<p>You would have similar data from human brain as was used there from mouse</p>
+
+<p>However, at this point your model does not yet solve the deconvolution problem. To pass the course, you would in minimum need to discuss how to proceed.</p>
+
+<p>To get a good rank on the leaderboard, you should think a bit further. Given the single cell profiles, you could generate simulated data by pooling a known subset of cells together [e.g. reads from 50 neurons mixed with reads from 50 endothelial cells]. This data and the known mixed proportions could serve as training data for training a deconvolution model. We will post more hints during the 2nd week how to proceed here!</p>
+
+
+            </div>
+        </div>
+    </main> 
+    
+    <footer class="site-footer">
+  <div class="footer"></div>
+</footer>
+
+        
+</body>

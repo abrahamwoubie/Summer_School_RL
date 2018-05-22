@@ -21,6 +21,11 @@ lecturers:
   topic: "Autonomous Agents"
   photo: "img/placeholder.jpg"
   site: "http://www.csc.kth.se/~algh/"
+- name: "Prof. Lauri Mehtätalo"
+  organization: "UEF"
+  topic: "Statistics"
+  photo: "img/lauri.jpg"
+  site: "http://cs.uef.fi/~lamehtat/"
 - name: "Dr. Md Sahidullah"
   organization: "INRIA"
   topic: "Speech"
@@ -36,11 +41,6 @@ lecturers:
   topic: "Speech"
   photo: "img/dayana.jpg"
   site: "https://sites.google.com/view/dayanaribas"
-- name: "Prof. Lauri Mehtätalo"
-  organization: "UEF"
-  topic: "Statistics"
-  photo: "img/lauri.jpg"
-  site: "http://cs.uef.fi/~lamehtat/"
 - name: "Dr. Akihiro Kato"
   organization: "UEF"
   topic: "Speech"
@@ -58,7 +58,7 @@ lecturers:
   
 
 teaching_assistants:
-- name: "Trung Ngo Trong"
+- name: "MSc. Trung Ngo Trong"
   organization: "UEF"
   photo: "img/trung.jpg"
 - name: "MSc. Ville Vestman"

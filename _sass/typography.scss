@@ -44,12 +44,12 @@
         vertical-align: top;
     }
     .peoplephoto > img {
-        height: $image-size;
-        width: $image-size;
+        height: $image-height;
+        width: $image-width;
         position: relative;
         margin: 10px 0 10px 0;
-        float: left;
-        border-radius: 50%;
+        float: none;
+        border-radius: 20%;
         p & {
             padding: 0;
             margin: 0;
@@ -64,4 +64,20 @@
         text-align: center;
         width: 100%;
     }
+    
+     div.col-md-14 + div.col-md-14 { 
+        margin-top: 40px;
+    }
+    
 }
+
+.topbutton {
+    a:hover {
+        text-decoration: none;
+    }
+}
+
+
+
+
+

@@ -1,0 +1,13 @@
+title: Machine Learning Applied to Speech Technology and Autonomous Agents
+subtitle: UEF Summer School, 2018
+url: "https://alpclk.github.io"
+subtitle_url: "http://www.uef.fi/en/web/summerschool/machine-learning-applied-to-speech-technology-and-autonomous-agents"
+baseurl: "/summerschool"
+
+markdown: kramdown
+
+# google_analytics: UA-88738364-5
+
+sass:
+    style: compressed
+    sass_dir: _sass

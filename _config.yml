@@ -6,7 +6,7 @@ baseurl: "/summerschool"
 
 markdown: kramdown
 
-# google_analytics: UA-88738364-5
+google_analytics: UA-119760540-1
 
 sass:
     style: compressed

@@ -14,12 +14,12 @@ lecturers:
 - name: "Prof. Ville Kyrki"
   organization: "Aalto Univ."
   topic: "Autonomous Agents"
-  photo: "img/placeholder.jpg"
+  photo: "img/kyrki.jpg"
   site: "https://people.aalto.fi/Ville_Kyrki"
 - name: "Dr. Ali Ghadirzadeh"
   organization: "Aalto Univ. & KTH Royal Inst. Tech."
   topic: "Autonomous Agents"
-  photo: "img/placeholder.jpg"
+  photo: "img/ali.jpg"
   site: "http://www.csc.kth.se/~algh/"
 - name: "Prof. Lauri Mehtätalo"
   organization: "UEF"
@@ -54,7 +54,8 @@ lecturers:
 - name: "Dr. Abraham Woubie"
   organization: "UEF"
   topic: "Speech"
-  photo: "img/placeholder.jpg"
+  photo: "img/woubie.jpg"
+  site: "https://scholar.google.com/citations?user=YyhFChIAAAAJ&hl=en"
   
 
 teaching_assistants:

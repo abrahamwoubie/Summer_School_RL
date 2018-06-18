@@ -65,10 +65,9 @@ certificate.
 
 ## Social Program
 
-The course involves social programme organized by the UEF (details
-TBA). The activities will mostly be included in your course fee, but
-some of them may have a small participation fee.
-
+The course involves social programme organized by the UEF. The activities will mostly be included in your course fee, but
+some of them may have a small participation fee. For more details, see 
+[http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu](http://www.uef.fi/en/web/summerschool/social-programme-in-joensuu). 
 
 
 

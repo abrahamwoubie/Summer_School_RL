@@ -5,6 +5,9 @@ title: Schedule | UEF Summer School 2018
 
 {% include buttons.html %}
 
+
+#### The lectures will take place in AU100 (Aurora building) and the practicals will be held in MP102/MP103 (Metria building). 
+
 |                   | MON 13.8                                          | TUE 14.8                                                | WED 15.8                                          | THU 16.8                                          | FRI 17.8                                          |
 |-------------------|---------------------------------------------------|---------------------------------------------------------|---------------------------------------------------|---------------------------------------------------|---------------------------------------------------|
 | **9:00 - 9:45**   |                                                   | Kinnunen: Speech basics, automatic speaker verification | Kato: Automatic speech recognition                | Kyrki: Reinforcement Learning Intro               | Hautamäki: Deep RL                                |

@@ -51,11 +51,6 @@ lecturers:
   topic: "Speech"
   photo: "img/rosa.jpg"
   site: "http://cs.uef.fi/~rgonza/"
-- name: "Dr. Abraham Woubie"
-  organization: "UEF"
-  topic: "Speech"
-  photo: "img/woubie.jpg"
-  site: "https://scholar.google.com/citations?user=YyhFChIAAAAJ&hl=en"
   
 
 teaching_assistants:
@@ -71,7 +66,3 @@ teaching_assistants:
   organization: "UEF"
   photo: "img/anssi.jpg"
   site:  "http://cs.uef.fi/~anssk/"
-- name: "MSc. Ivan Kukanov"
-  organization: "UEF & I2R"
-  photo: "img/ivan.jpg"
-  site: "http://kukanov.com/"

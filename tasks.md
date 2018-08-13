@@ -7,7 +7,7 @@ title: Tasks | UEF Summer School 2018
 
 
 ## Learning diary
-Returnables: Filled learning diary (questions answered) <br>
+Returnables: Filled learning diary (Deadline 9.9) <br>
 Filled learning diary will be returned to Moodle ([https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032)).
 
 For the first week of the course, participants are required to submit filled
@@ -15,7 +15,7 @@ learning diary that consists of different questions related to given lectures (q
 
 
 ## Project (done during second week, 20.8 - 24.8, and onward)
-Returnables: Final report and source code <br>
+Returnables: Final report and source code (Deadline 9.9) <br>
 Report and source code will be returned to the Moodle.
 
 
@@ -26,7 +26,7 @@ environment or against other agents, depending on technical feasibility.
 - Ready made learning environment (ToriLLE) can be found from this link:
 [https://github.com/Miffyli/ToriLLE](https://github.com/Miffyli/ToriLLE)
 - Information about ToriLLE can be found from our paper
-https://arxiv.org/abs/1807.10110
+[https://arxiv.org/abs/1807.10110](https://arxiv.org/abs/1807.10110)
 
 #### Challenge 2: Imitating a celebrity voice
 - Use the corpus VoxCeleb ([http://www.robots.ox.ac.uk/~vgg/data/voxceleb/](http://www.robots.ox.ac.uk/~vgg/data/voxceleb/))

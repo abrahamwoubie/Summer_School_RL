@@ -51,7 +51,8 @@ more about the state-of-the-art in artificial intelligence (AI).
 **Credits:** 2 or 5 ECTS <br />
 **Teaching language:** English <br />
 **Level:** Doctoral, Master <br />
-**Study materials:** [https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032) <br />
+**Study materials:** [https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032)  <br />
+**Program codes:** [https://github.com/trungnt13/uef-summerschool2018](https://github.com/trungnt13/uef-summerschool2018)  <br />
 
 The course amounts to either 2 ECTS or 5 ECTS, depending on the mode: <br />
 

@@ -11,7 +11,9 @@ Returnables: Filled learning diary (Deadline 9.9) <br>
 Filled learning diary will be returned to Moodle ([https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032)).
 
 For the first week of the course, participants are required to submit filled
-learning diary that consists of different questions related to given lectures (questions will be added here soon). 
+learning diary that consists of different questions related to given lectures.
+
+**Learning diary questions:** [https://moodle.uef.fi/mod/resource/view.php?id=1309620](https://moodle.uef.fi/mod/resource/view.php?id=1309620)
 
 
 ## Project (done during second week, 20.8 - 24.8, and onward)

@@ -41,3 +41,4 @@ your voice using speaker recognition technology.
 - Apply a speech enhancement method and recheck the system performance (e.g. Wiener filter in Scipy)
 - Challenge the system with a different issue and compare results (e.g. short duration)
 - Record your own voice and repeat the process. Compare the obtained results with the one with the previous set of signals and discuss.
+- Get the project package including pre-trained speaker recognition models from [here](http://cs.uef.fi/~vvestman/files/challenge3.zip).

@@ -7,6 +7,16 @@ title: Photos | UEF Summer School 2018
 
 test
 
-![koe](photos/placeholder.jpg)
+![Group photo](photos/group_photo.jpg)
 
-![koe2](photos/placeholder.jpg)
+![Audience listening lecture](photos/audience.jpg)
+
+![Kyrki Lecturing](photos/kyrki.jpg)
+
+![Photo from the back row of auditorium](photos/back_row.jpg)
+
+![Anssi teaching](photos/anssi.jpg)
+
+![Computer class](photos/practicals.jpg)
+
+

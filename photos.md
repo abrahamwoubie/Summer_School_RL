@@ -7,4 +7,6 @@ title: Photos | UEF Summer School 2018
 
 test
 
-![](photos/placeholder.jpg)
+![koe](photos/placeholder.jpg)
+
+![koe2](photos/placeholder.jpg)

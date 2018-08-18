@@ -5,6 +5,6 @@ title: Photos | UEF Summer School 2018
 
 {% include buttons.html %}
 
-test2
+test
 
-![](https://vvestman.github.io/summerschool/photos/placeholder.jpg)
+![](photos/placeholder.jpg)

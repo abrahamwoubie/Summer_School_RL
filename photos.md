@@ -5,8 +5,6 @@ title: Photos | UEF Summer School 2018
 
 {% include buttons.html %}
 
-test
-
 ![Group photo](photos/group_photo.jpg)
 
 ![Audience listening lecture](photos/audience.jpg)

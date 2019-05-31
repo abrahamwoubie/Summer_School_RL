@@ -1,26 +1,31 @@
 ---
 layout: default
-title: Tasks | UEF Summer School 2018
+title: Tasks | UEF Summer School 2019
 ---
 
 {% include buttons.html %}
 
 
 ## Learning diary
-Returnables: Filled learning diary (Deadline 9.9) <br>
-Filled learning diary will be returned to Moodle ([https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032)).
+Returnables: Filled learning diary (Deadline TBA) <br>
+Filled learning diary can be returned in Moodle ([https://moodle.uef.fi/course/view.php?id=24085](https://moodle.uef.fi/course/view.php?id=24085)). <!--([https://moodle.uef.fi/course/view.php?id=17032](https://moodle.uef.fi/course/view.php?id=17032))-->
 
-For the first week of the course, participants are required to submit filled
-learning diary that consists of different questions related to given lectures.
+To obtain 3 ECTS from the course, participants are required to submit a filled
+learning diary that contains answers to different questions related to the course lectures.
+Learning diary questions will be added here during the course.
 
-**Learning diary questions:** [https://moodle.uef.fi/mod/resource/view.php?id=1309620](https://moodle.uef.fi/mod/resource/view.php?id=1309620)
-
-
-## Project (done during second week, 20.8 - 24.8, and onward)
-Returnables: Final report and source code (Deadline 9.9) <br>
-Report and source code will be returned to the Moodle.
+<!--**Learning diary questions:** [https://moodle.uef.fi/mod/resource/view.php?id=1309620](https://moodle.uef.fi/mod/resource/view.php?id=1309620)-->
 
 
+## Project work (done after the course)
+Returnables: Final report and source code (Deadline TBA) <br>
+Report and source code can be returned in Moodle.
+
+By returning an individual project work of sufficient quality, you can get additional 2 ECTS (in total 5 ECTS).
+
+Project work details TBA.
+
+<!--
 #### Challenge 1: Train an agent that plays Toribash
 - Toribash is a 1v1 fighting game.
 - Design and/or train an agent for Toribash-DestroyUke-v1 task: The higher cumulative reward at the end of the game/episode, the better. Find the environment from Github link below.
@@ -41,4 +46,4 @@ your voice using speaker recognition technology.
 - Apply a speech enhancement method and recheck the system performance (e.g. Wiener filter in Scipy)
 - Challenge the system with a different issue and compare results (e.g. short duration)
 - Record your own voice and repeat the process. Compare the obtained results with the one with the previous set of signals and discuss.
-- Get the project package including pre-trained speaker recognition models from [here](http://cs.uef.fi/~vvestman/files/challenge3.zip).
+- Get the project package including pre-trained speaker recognition models from [here](http://cs.uef.fi/~vvestman/files/challenge3.zip). -->

@@ -1,11 +1,13 @@
 ---
 layout: default
-title: Schedule | UEF Summer School 2018
+title: Schedule | UEF Summer School 2019
 ---
 
 {% include buttons.html %}
 
+TBA.
 
+<!--
 #### The lectures will take place in AU100 (Aurora building) and the practicals will be held in MP102/MP103 (Metria building). 
 
 |                   | MON 13.8                                          | TUE 14.8                                                | WED 15.8                                          | THU 16.8                                          | FRI 17.8                                          |
@@ -40,3 +42,4 @@ title: Schedule | UEF Summer School 2018
 | **18:00-**        | <span style="color:crimson">**Frisbeegolf**</span>                                                        |                                                                    | <span style="color:crimson">**Baking Finnish delicacies**</span>                                          |                                                                    |                                                                    |
 | **19:00-**        |                                                                    |                                                                    |                                                                    |                                                                    | <span style="color:crimson">**Farewell dinner**</span>                                                    |
 
+-->

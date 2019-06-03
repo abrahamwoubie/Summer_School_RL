@@ -10,7 +10,7 @@ title: UEF Summer School 2019
 ## Course Overview
 University of Eastern Finland (UEF) hosts a number of different summer
 courses in August 2019. The course *Machine Learning for Speech* is organized by the School
-of Computing of the UEF. Contact teaching takes place at the Joensuu campus of the UEF from August 19th to 23rd.
+of Computing of the UEF. Contact teaching takes place at the Joensuu campus of the UEF from August 12th to 16th.
 
 <!--The first day includes course introduction, introduction to machine
 learning, linear mixed models and basics of deep learning for modeling
@@ -19,13 +19,12 @@ speech recognition, speaker diarization, speech enhancement, audio
 steganography), while the last two lecture days focus on reinforcement
 learning and autonomous software and physical agents (robots).-->
 
-The course is intended as a brief introduction to machine learning techniques and their application to selected speech applications. We focus in particular to speaker and language recognition and voice anti-spoofing, and will briefly touch upon other miscellaneous topics. The course will involve lectures, practicals / computer exercises, and learning diary. While no formal pre-requirements are set, sufficient programming knowledge and certain level of mathematics/statistics (linear algebra and probability theory) will be helpful for the maximum benefit of the participant. The foreseen programming tools in the 2019 course edition include Python and to a lesser extent, Matlab.
-
+The course is intended as a brief introduction to reinforcement learning and its application to different game applications. It provides an introduction to reinforcement learning, starting from the basics and ending up with advanced topics like deep reinforcement learning for video games. The course will involve lectures, practicals, project and and learning diary. While no formal pre-requirements are set, sufficient programming knowledge of Python, certain level of mathematics/statistics and neural network will be helpful for the maximum benefit of the participant.
 
 ## General Course Information
 
 **Venue:** Joensuu campus <br />
-**Dates:** 19-23 August 2019 <br />
+**Dates:** 12-16 August 2019 <br />
 **Credits:** 3 or 5 ECTS <br />
 **Teaching language:** English <br />
 **Level:** Doctoral, Master <br />
@@ -34,7 +33,7 @@ The course is intended as a brief introduction to machine learning techniques an
 
 The course amounts to either 3 ECTS or 5 ECTS, depending on the mode: <br />
 
-**A.** Lectures + learning diary (August 19 - 23), total 3 ECTS <br />
+**A.** Lectures + practicals + learning diary (August 12 - 16), total 3 ECTS <br />
 **B.** The A. part + individual project (Completed after the cource), total 5 ECTS <br />
 
 The course contains 5 days of lectures, hands on practicals, project
